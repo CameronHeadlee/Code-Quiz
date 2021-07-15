@@ -1,0 +1,2 @@
+# Code-Quiz
+This is a quiz made from HTML, Css, and JavaScript. You will be presented with a start button. Once you click the start button you will begin a timed quiz. After you have answered all of the questions you will be presented with a high score. If you are not satisfied with current high score you will have the option to reset and try again! Keep playing till you have your preferred high score. 
